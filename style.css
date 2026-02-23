@@ -3,3 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+section,
+footer,
+main,
+header {
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid black;
+}
