@@ -8,7 +8,18 @@ section,
 footer,
 main,
 header {
-    padding: 20px;
-    margin: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid black;
+}
+
+.sobre-mim {
+    padding: 50px;
+    margin: 10px;
+}
+
+.gif {
+    padding: 10px;
+    margin: 10px;
     border: 5px solid black;
 }
